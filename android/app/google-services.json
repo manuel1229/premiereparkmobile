@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412523529245",
+    "project_id": "premierepark-80f15",
+    "storage_bucket": "premierepark-80f15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412523529245:android:482148955edfa104d732f4",
+        "android_client_info": {
+          "package_name": "com.example.premierepark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412523529245-kk2crnukppjhlhltkm79kou52lspe13o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGxMJM6FPns3PcozvcZohHmv4gJeIMEjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412523529245-kk2crnukppjhlhltkm79kou52lspe13o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
